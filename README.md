@@ -13,4 +13,4 @@ Tam responsive (mobil, tablet, masaüstü uyumlu)
  Koyu ve açık alanların dengeli kullanımı
 KULLANILAN TEKNOLOJİLER : *HTML5**
 - **Bootstrap 5.3.2**
-SİTE LİNKİ :
+**SİTE LİNKİ** :https://beritancakan0-hue.github.io/F-NAL-SINAVI/
